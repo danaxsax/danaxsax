@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danaxsax
+- 👀 I’m interested in cloud computing and full stack 
+- 🌱 I’m currently learning data cleaning
