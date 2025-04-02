@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Cyrce Danae Salinas
-- 👀 I’m interested in cloud computing and full stack 
-- 🌱 I’m currently developing landing pages and using technologies just like next js and astro
+- 👋 Hi, I’m Cyrce Salinas
